@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>166.jpg</filename>
+	<path>D:\DeepLearning\Datasets\equipment dataset\Train\166.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>209</width>
+		<height>242</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Industrial Scale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>7</ymin>
+			<xmax>174</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

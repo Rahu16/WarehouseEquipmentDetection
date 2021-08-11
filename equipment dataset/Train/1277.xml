@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>1277.jpg</filename>
+	<path>D:\DeepLearning\Datasets\equipment dataset\Train\1277.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>474</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pallet Jack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>55</ymin>
+			<xmax>468</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

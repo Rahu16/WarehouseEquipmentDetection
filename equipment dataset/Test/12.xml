@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>12.jpg</filename>
+	<path>D:\DeepLearning\Datasets\equipment dataset\Test\12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>414</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Industrial Scale</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>104</ymin>
+			<xmax>403</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

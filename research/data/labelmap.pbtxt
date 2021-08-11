@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'Industrial Scale'
+}
+
+item {
+  id: 2
+  name: 'Pallet Jack'
+}
+
+item {
+  id: 3
+  name: 'Scissor Lift'
+}
+
+item {
+  id: 4
+  name: 'Carts'
+}
+
+item {
+  id: 5
+  name: 'Yard Ramp'
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>166.jpg</filename>
+	<path>D:\DeepLearning\Datasets\equipment dataset\Test\166.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>303</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>29</ymin>
+			<xmax>246</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

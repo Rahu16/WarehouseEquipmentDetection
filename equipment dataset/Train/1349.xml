@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>1349.jpg</filename>
+	<path>D:\DeepLearning\Datasets\equipment dataset\Train\1349.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yard Ramp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>186</ymin>
+			<xmax>451</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pallet Jack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>129</ymin>
+			<xmax>320</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

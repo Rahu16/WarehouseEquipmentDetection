@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>44.jpg</filename>
+	<path>D:\DeepLearning\Datasets\equipment dataset\Train\44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>203</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Scissor Lift</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>42</ymin>
+			<xmax>203</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

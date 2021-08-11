@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>915.jpg</filename>
+	<path>D:\DeepLearning\Datasets\equipment dataset\Train\915.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1250</width>
+		<height>1250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carts</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>2</ymin>
+			<xmax>1208</xmax>
+			<ymax>1250</ymax>
+		</bndbox>
+	</object>
+</annotation>
